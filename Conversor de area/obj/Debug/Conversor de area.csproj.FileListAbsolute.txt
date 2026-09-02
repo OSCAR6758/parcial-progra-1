@@ -1,0 +1,20 @@
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\bin\Debug\Conversor de area.exe.config
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\bin\Debug\Conversor de area.exe
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\bin\Debug\Conversor de area.pdb
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor de area.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor_de_area.Form1.resources
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor_de_area.Properties.Resources.resources
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor de area.csproj.GenerateResource.cache
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor de area.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor de area.exe
+C:\Users\jonat\source\repos\Conversor de area\Conversor de area\obj\Debug\Conversor de area.pdb
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\bin\Debug\Conversor de area.exe.config
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\bin\Debug\Conversor de area.exe
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\bin\Debug\Conversor de area.pdb
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor de area.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor_de_area.Form1.resources
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor_de_area.Properties.Resources.resources
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor de area.csproj.GenerateResource.cache
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor de area.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor de area.exe
+D:\Users\Estudiante\Downloads\Progra1-Semi-2026-main\Progra1-Semi-2026-main\Conversor de area\Conversor de area\obj\Debug\Conversor de area.pdb
